@@ -1,0 +1,43 @@
+.nav
+{
+    width: 100%;
+    height: 640px;
+    background-image: url("images/snail-6400177_1920.jpg");
+
+    
+}
+.nav li a
+{
+    text-decoration: none;
+}
+h4{
+color: rgb(191, 216, 215);}
+.header
+{
+    padding: 60px;;
+    width: 30px ;
+    height: 10px;
+
+    color: rgba(255, 255, 255, 0.726);;
+}
+.header2
+{
+    color: rgba(255, 255, 255, 0.726);
+}
+.header3
+{
+    color:rgba(255, 255, 255, 0.726);;
+    padding: 40px;
+}
+.bord
+{
+    border: 2px solid rgba(106, 172, 41, 0.781);
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgba(106, 172, 41, 0.781);
+    width: 10%;
+    margin: auto;
+    text-align: center;
+    color: rgb(191, 216, 215);
+
+}
